@@ -17,3 +17,7 @@ bsc = "https://data-seed-prebsc-1-s1.binance.org:8545"
 - Una vez guardado el archivo debes ejecutarlo desde una terminal de windows o de tu sistema operativo que uses con el siguiente comando.
 `python crear_wallet.py`
 - Cuando termine de ejecutar el script veras que se crea un archivo wallet.txt, guarda bien ese archivo, ahi se encuentra tu wallet y el privateKey para poder acceder a ella.
+
+###### Soporte
+Twitter: [https://twitter.com/ElGafasTrading](https://twitter.com/ElGafasTrading "https://twitter.com/ElGafasTrading")
+Instagram: [https://www.instagram.com/elgafastrading/](https://www.instagram.com/elgafastrading/ "https://www.instagram.com/elgafastrading/")
