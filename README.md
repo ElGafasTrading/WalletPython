@@ -7,3 +7,11 @@ Aqui se va a ir desarrollando lo basico para poder crear y controlar la Wallet.
 **Como usar el scrypt**
 - Descargar python [Aqui](https://www.python.org/ "Aqui")
 - Descargar y modificar el Archivo crear_wallet.py, el archivo lo puedes modificar con sublime text, el cual puedes descargar [Aqui](https://www.sublimetext.com/ "Aqui")
+- Comentar la linea 4 y descomentar la linea 2 para usar la MainNet, ya que la linea 4 es la TestNet
+
+```python
+# MainNet
+# bsc = "https://bsc-dataseed.binance.org"
+# testnet
+bsc = "https://data-seed-prebsc-1-s1.binance.org:8545"
+```
