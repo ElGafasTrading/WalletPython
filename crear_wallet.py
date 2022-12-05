@@ -5,8 +5,6 @@ from web3 import Web3
 # testnet
 bsc = "https://data-seed-prebsc-1-s1.binance.org:8545"
 
-wallet = '0x8A0A9E678bDb50F9816bD450461AABa5797C7B0d'
-
 web3 = Web3(Web3.HTTPProvider(bsc))
 if web3.isConnected():
     print('Conexion exitosa')
