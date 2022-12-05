@@ -2,7 +2,7 @@
 
 Este script en python es para poder crear una wallet en la BlockChain de BSC por medio de WEB3.
 
-Aqui se va a ir desarollando lo basico para poder crear y controlar la Wallet.
+Aqui se va a ir desarrollando lo basico para poder crear y controlar la Wallet.
 
 **Como usar el scrypt**
 - Descargar python [Aqui](https://www.python.org/ "Aqui")
